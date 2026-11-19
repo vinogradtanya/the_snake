@@ -1,8 +1,8 @@
 # the_snake
 
-Install the dependencies and start the game:
+Install the game dependency and start the game:
 
 ```bash
-python -m pip install -r requirements.txt
+python -m pip install pygame-ce==2.5.8
 python the_snake.py
 ```
